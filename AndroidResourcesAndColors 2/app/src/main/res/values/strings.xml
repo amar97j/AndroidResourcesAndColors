@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TrueFalseComposeGame</string>
+    <string name="false_text" >False</string>
+    <string name="true_text" >True</string>
+    <string name="wrong_answer" >Wrong Answer</string>
+    <string name="correct_answer" >Correct Answer</string>
+    <string name="next_question" >next question</string>
+</resources>
